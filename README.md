@@ -2,7 +2,7 @@
 Exporteer alle mails met als subject "Heeft ... U goed geholpen" als eml
 Ik heb hiervoor IMAPSize gebruikt.
 
-Download de jar [Hier]("https://github.com/Pverweij/TrustPilotFinder/releases/download/1.0/TrustpilotChecker.zip")
+Download de jar [Hier](https://github.com/Pverweij/TrustPilotFinder/releases/download/1.0/TrustpilotChecker.zip)
 
 Vervolgens plaats run je vanaf de commandline:
 ```java -jar TrustpilotChecker.jar "/path/to/eml/directory"```
