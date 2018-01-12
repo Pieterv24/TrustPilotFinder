@@ -1,4 +1,4 @@
-###Usage: 
+### Usage: 
 Exporteer alle mails met als subject "Heeft ... U goed geholpen" als eml
 Ik heb hiervoor IMAPSize gebruikt.
 
@@ -9,12 +9,12 @@ Vervolgens plaats run je vanaf de commandline:
 hierna na was tijd verschijnt er een html file genaamd reviews.html in je de map waarin TrustpilotChecker staat.
 	
 	
-###Customization:
+### Customization:
 Voel je vrij de Template files zover aan te passen als je wil.
 Dit moetwerken zolang je de $UPPPERCASSE text laat staan.
 	
 	
-###TroubleShooting
+### TroubleShooting
 1. Help mijn Review.html is leeg
 	Oplossing: Kijk of zowel CardTemplate.html en ReviewsTemplate.html zich in dezelfde map als TrustpilotChecker.jar bevinden.
 2. Help hij werkt niet
