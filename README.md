@@ -2,6 +2,8 @@ Usage:
 	Exporteer alle mails met als subject "Heeft ... U goed geholpen" als eml
 	Ik heb hiervoor IMAPSize gebruikt.
 	
+	Download de jar [Hier]("https://github.com/Pverweij/TrustPilotFinder/releases/download/1.0/TrustpilotChecker.zip")
+	
 	Vervolgens plaats run je vanaf de commandline:
 	'java -jar TrustpilotChecker.jar "/path/to/eml/directory"'
 	hierna na was tijd verschijnt er een html file genaamd reviews.html in je de map waarin TrustpilotChecker staat.
@@ -19,26 +21,3 @@ TroubleShooting
 		Oplossing: Ik heb geen idee. de code staat op github, kijk of je t kan fixen.
 	3. Help ik probeer te fixem maar tijdens debuggen loopt hij vast
 		Oplossing: op sommige computers houd HTTPSUrlConnection niet van debuggen. werkt wel bij normaal runnen (Meestal)
-		
-		
-
-		
-Deze software valt onder de doe whatever de fuck je wil licentie
-Kopieeren/Veranderen/Verkopen/Verwijderen is toegestaan zonder mijn tussenkomst ;P
-
-
-¦¦¦¦¦¦¦¦¦
-¦¦¦¦_¯¯¯¯¯¦¯____¦¦¦¦
-¦¦_¯¦¦¦¦¦¦¦¦¦¦¦¦¯_¦¦
-_¯¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦
-¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦
-¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦
-¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦
-¦¦¦¦¦¦¦¦____¦¦¦_¦_¯¦
-¦¯_¦¦¦¦¯¦¦¦¦¦¦¦¦¦¦¦¦
-¯_¦¦¦¦¦¦¦¦¦¦¦¦¯_¦¦¦¦
-¦¯¦¯¦¦¦¦¦¦¦¯__¦¯¦¦¦¦
-¦¦¯¦¦¦¦¦¦¦__¦___¦¦¦¦
- ¦¦¦¯__¦¦¦¦¦¦¯¯¦¦_¯¦¦
-¦¦¦¦¦¯¦_¦¦¦¦¦¦¦_¯¦¦¦
-¦¦¦¦¦¦¦¦¯¯¦____¯
