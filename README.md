@@ -14,7 +14,7 @@ Voel je vrij de Template files zover aan te passen als je wil.
 Dit moetwerken zolang je de $UPPPERCASSE text laat staan.
 	
 	
-### TroubleShooting
+### Troubleshooting
 1. Help mijn Review.html is leeg
 	Oplossing: Kijk of zowel CardTemplate.html en ReviewsTemplate.html zich in dezelfde map als TrustpilotChecker.jar bevinden.
 2. Help hij werkt niet
